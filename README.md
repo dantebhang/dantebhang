@@ -39,7 +39,7 @@ I’m a full-stack engineer in the San Francisco Bay Area
 </td><td valign="top" width="60%">
 
 <div align="center">
-<img src="https://random-memer.herokuapp.com/" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/87205105/146481462-953c3e91-c142-4860-b186-86638c2c6712.PNG" align="center" style="width: 100%" />
 </div>  
 
 
