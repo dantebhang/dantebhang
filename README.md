@@ -30,7 +30,7 @@ I’m Dante Bhang, a full-stack engineer in the San Francisco Bay Area
 🌱 I’m learning Python as my next language 
   <br />  
   <br />
-❓ Ask me about anything related to PERN stack and related technologies  
+❓ Ask me about anything related to PERN stack 
   <br />
 <br />
 ⚡ Fun fact: I enjoy dark humor 👼
