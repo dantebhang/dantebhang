@@ -23,6 +23,7 @@ I’m a full-stack engineer in the San Francisco Bay Area
 <table><tr><td valign="top" width="50%">
     <br/>
     <br />
+ <div align="left">
 🔭 I’m currently working on a personal portfolio 🙈  
   <br />
   <br />
@@ -34,6 +35,7 @@ I’m a full-stack engineer in the San Francisco Bay Area
 <br />
 ⚡ Fun fact: I enjoy dark humor 👼
   <br />
+ </div>
 </td><td valign="top" width="60%">
 
 <div align="center">
