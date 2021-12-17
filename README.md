@@ -1,5 +1,5 @@
 
-# <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" style="width: 3%" /> Welcome to my Github!</div>
+# <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" style="width: 5%" /> Welcome to my Github!</div>
  
 <div align="center">
 I’m Dante Bhang, a full-stack engineer in the San Francisco Bay Area
