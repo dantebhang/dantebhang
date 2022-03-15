@@ -24,7 +24,7 @@ I’m Dante Bhang, a full-stack engineer in the San Francisco Bay Area
     <br/>
     <br />
  <div align="left">
-🔭 I’m currently working on a personal portfolio 🙈  
+  🔭 Check out my personal portfolio <a href="https://dantebhang.netlify.app/">here!</a>
   <br />
   <br />
 🌱 I’m learning Python as my next language 
